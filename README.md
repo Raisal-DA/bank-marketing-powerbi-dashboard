@@ -92,7 +92,6 @@ DAX measures
 
 Interactive visual analytics
 
-## Dashboard Preview
 
 ## Dashboard Preview
 
