@@ -96,4 +96,4 @@ Interactive visual analytics
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard-preview.png)
+![Bank Marketing Dashboard](Bank_Marketing_Dashboard.png)
